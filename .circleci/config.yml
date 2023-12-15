@@ -127,7 +127,7 @@ workflows:
             {
                 "ignorePatterns": [
                     {
-                        "pattern": "https://github.com/kurtosis-tech/ethereum-package"
+                        "pattern": "https://github.com/AnomalyFi/ethereum-package"
                     }
                 ]
             }
